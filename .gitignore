@@ -1,0 +1,15 @@
+.DS_Store
+
+*.log
+*.bat
+*.ps1
+*.sh
+
+node_modules/
+public/
+.deploy*/
+.idea/
+
+_multiconfig.yml
+Thumbs.db
+db.json

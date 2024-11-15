@@ -1,0 +1,55 @@
+- class_name: 友链
+  class_desc: 那些人，那些事
+  link_list:
+    - name: 王念一
+      link: http://wangnianyi2001.com/
+      avatar: https://avatars.githubusercontent.com/u/19430435?v=4
+      descr: AKA小屁
+    - name: 紫地丁
+      link: https://purpleditine.top/
+      avatar: https://purpleditine.top/img/head.png
+      descr: 一些个卷王同学
+    - name: Heskey0
+      link: https://heskey0.github.io/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202411152058148.jpg
+      descr: 图形学的神！
+    - name: 素质
+      link: https://1keven1.github.io/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202411152058149.jpg
+      descr: 一些个卷王师哥
+    - name: 秋涵
+      link: https://himoqiuhan.github.io/
+      avatar: https://himoqiuhan.github.io/images/avatar.png
+      descr: 一些个卷王师哥
+    - name: Derek-_-Liu
+      link: https://liutengo.github.io/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202411152058142.jpg
+      descr: 一些个卷王同学
+    - name: FSDF
+      link: https://fsdffs12138.github.io/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202310110124072.jpg
+      descr: 一些个卷王同学
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://butterfly.js.org/img/avatar.png
+      descr: 本博客使用的Hexo主题Butterfly的作者
+
+- class_name: 网站
+  class_desc: 常用网站
+  link_list:
+    - name: Youtube
+      link: https://www.youtube.com/
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 视频网站
+    - name: BiliBili
+      link: https://www.bilibili.com/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303231856030.png
+      descr: 视频网站
+    - name: Github
+      link: https://github.com/
+      avatar: https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303231858423.png
+      descr: 代码托管平台
