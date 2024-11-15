@@ -38,7 +38,7 @@ copy:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/hmxsqaq || Github
-  fas fa-envelope: mailto:hmxsqaq@163.com || Email
+  fas fa-envelope: mailto:hmxsqaq@gmail.com || Email
   fab fa-bilibili: https://space.bilibili.com/11752174 || BiliBili
 
 # search (搜索)
