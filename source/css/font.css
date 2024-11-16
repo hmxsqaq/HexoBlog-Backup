@@ -4,7 +4,7 @@
     src: url('../fonts/mononoki-Regular.ttf') format("truetype");
 }
 @font-face {
-    font-family: 'LXGWWenKaiScreen';
+    font-family: 'LXGWWenKaiGBLite';
     font-display: swap;
-    src: url('../fonts/LXGWWenKaiScreen.ttf') format("truetype");
+    src: url('../fonts/LXGWWenKaiGBLite-Medium.ttf') format("truetype");
 }

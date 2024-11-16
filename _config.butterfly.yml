@@ -613,8 +613,7 @@ beautify:
 font:
   global-font-size: 15px
   code-font-size: 14px
-  font-family: -apple-system, LXGWWenKaiScreen, monosapce, "微软雅黑", sans-serif
-  #font-family: -apple-system, Noto Serif SC, monosapce, "微软雅黑", sans-serif
+  font-family: -apple-system, LXGWWenKaiGBLite, monosapce, "微软雅黑", sans-serif
   code-font-family: mononoki, consolas, monospace
 
 # Font settings for the site title and site subtitle
