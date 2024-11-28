@@ -1,5 +1,5 @@
 ---
-title: 【GAMES101】学习笔记
+title: 「GAMES101」学习笔记
 tags:
   - Graphics
   - C/C++

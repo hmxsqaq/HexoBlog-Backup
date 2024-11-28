@@ -1,5 +1,5 @@
 ---
-title: 《电击小子》-CiGA GameJam 2023
+title: 「电击小子」CiGA GameJam 2023
 tags:
   - Unity
   - GameProject

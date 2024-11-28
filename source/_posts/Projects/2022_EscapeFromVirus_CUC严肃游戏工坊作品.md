@@ -1,5 +1,5 @@
 ---
-title: 《EscapeFromVirus》-严肃游戏工坊作品
+title: 「EscapeFromVirus」严肃游戏工坊作品
 tags:
   - Unity
   - GameProject

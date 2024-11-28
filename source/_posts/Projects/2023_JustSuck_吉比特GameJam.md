@@ -1,5 +1,5 @@
 ---
-title: 《Just Suck.》-吉比特GameJam2023
+title: 「Just Suck.」吉比特GameJam2023
 tags:
   - Unity
   - GameProject

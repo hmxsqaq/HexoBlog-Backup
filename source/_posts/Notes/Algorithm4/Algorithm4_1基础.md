@@ -1,5 +1,5 @@
 ---
-title: 【Algorithm4】读书笔记一：基础
+title: 「Algorithm4」读书笔记一：基础
 tags:
   - Java
   - Algorithm

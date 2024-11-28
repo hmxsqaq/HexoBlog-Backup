@@ -1,5 +1,5 @@
 ---
-title: 《Revive》-UE GameJam 2022
+title: 「Revive」UE GameJam 2022
 tags:
   - Unity
   - GameProject

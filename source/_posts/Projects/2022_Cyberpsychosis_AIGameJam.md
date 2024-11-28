@@ -1,5 +1,5 @@
 ---
-title: 《Cyberpsychosis》-AI Game Jam 2022
+title: 「Cyberpsychosis」AI Game Jam 2022
 tags:
   - Unity
   - GameProject

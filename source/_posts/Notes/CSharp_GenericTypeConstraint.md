@@ -1,5 +1,5 @@
 ---
-title: 【C#-泛型约束】学习笔记
+title: 「C#-泛型约束」学习笔记
 tags:
   - C#
   - Generic

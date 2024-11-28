@@ -1,5 +1,5 @@
 ---
-title: 【LeetCode】算法练习记录
+title: 「LeetCode」算法练习记录
 tags:
   - C/C++
   - Algorithm
