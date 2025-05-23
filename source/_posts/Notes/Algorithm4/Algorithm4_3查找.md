@@ -330,7 +330,100 @@ private:
 
 <img src="https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202505221811112.png" alt="image-20250522181128007" style="zoom:50%;" />
 
-3. （如果树不符合要求）重复case1或case2
+3. （如果树不符合要求）重复case1或case2，在实现上会使用递归的方式实现
 
 <img src="https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202505221819882.png" alt="image-20250522181935783" style="zoom:50%;" />
+
+#### C++简单实现
+
+```c++
+template<Comparable KEY, typename VALUE>
+class RedBlackBST {
+private:
+    struct Node {
+        KEY key;
+        VALUE value;
+        Node *left;
+        Node *right;
+        bool is_red;
+
+        Node(KEY k, VALUE v, bool red = true)
+            : key(k), value(v), left(nullptr), right(nullptr), is_red(red) {}
+    };
+
+    Node *root_ = nullptr;
+
+    bool is_red(Node *node) const {
+        if (node == nullptr) return false;
+        return node->is_red;
+    }
+
+    Node* rotateLeft(Node *h) {
+        assert(h != nullptr && is_red(h->right));
+        Node* x = h->right;
+        h->right = x->left;
+        x->left = h;
+        x->is_red = h->is_red;
+        h->is_red = true;
+        return x;
+    }
+
+    Node* rotateRight(Node *h) {
+        assert(h != nullptr && is_red(h->left));
+        Node* x = h->left;
+        h->left = x->right;
+        x->right = h;
+        x->is_red = h->is_red;
+        h->is_red = true;
+        return x;
+    }
+
+    void flipColor(Node *h) {
+        assert(h != nullptr && h->left != nullptr && h->right != nullptr);
+        assert(!is_red(h) && is_red(h->left) && is_red(h->right));
+        h->is_red = true;
+        h->left->is_red = false;
+        h->right->is_red = false;
+    }
+
+    Node* put(Node *h, KEY key, VALUE value) {
+        if (h == nullptr) return new Node(key, value, true);
+
+        if (key < h->key)		h->left = put(h->left, key, value);
+        else if (key > h->key)	h->right = put(h->right, key, value);
+        else					h->value = value;
+
+        if (is_red(h->right) && !is_red(h->left)) 		h = rotateLeft(h);
+        if (is_red(h->left) && is_red(h->left->left)) 	h = rotateRight(h);
+        if (is_red(h->left) && is_red(h->right)) 		flipColor(h);
+
+        return h;
+    }
+
+    const Node* get(Node *h, const KEY& key) const {
+        while (h != nullptr) {
+            if (key < h->key)		h = h->left;
+            else if (key > h->key)	h = h->right;
+            else					return h;
+        }
+        return nullptr;
+    }
+
+public:
+    bool is_empty() const {
+        return root_ == nullptr;
+    }
+
+    void put(KEY key, VALUE value) {
+        root_ = put(root_, key, value);
+        root_->is_red = false;
+    }
+
+    std::optional<VALUE> get(const KEY& key) const {
+        const Node* res = get(root_, key);
+        if (res == nullptr) return std::nullopt;
+        return res->value;
+    }
+};
+```
 
