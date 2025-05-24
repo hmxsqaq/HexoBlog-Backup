@@ -11,7 +11,7 @@ categories:
 description:
   - 序章：架构、性能与游戏
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303301905867.jpeg'
-abbrlink: 2001
+abbrlink: 11101
 date: 2023-03-30 18:00:00
 ---
 
@@ -21,7 +21,7 @@ date: 2023-03-30 18:00:00
 >
 > **书籍汉化版网址：https://gpp.tkchu.me/**
 >
-> **笔记目录：[https://hmxs.games/posts/2000/](https://hmxs.games/posts/2000/)**
+> **笔记目录：[https://hmxs.games/posts/11100/](https://hmxs.games/posts/11100/)**
 
 ---
 

@@ -10,7 +10,7 @@ categories:
 description:
   - "TheCherno的C++系列视频被誉为最好的C++教程之一<br>这里记录了我的一些笔记与理解，希望对你有帮助\U0001F61D"
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202304182342702.png'
-abbrlink: 1002
+abbrlink: 11202
 date: 2023-06-01 01:46:00
 ---
 
@@ -26,11 +26,11 @@ C++因为其优异的性能，是游戏开发中最为常用的语言之一，�
 
 这些笔记记录了我通过The Cherno的系列视频学习C++的一些知识点与理解，希望对你有帮助😉
 
-> 第一章（1-33）：[https://hmxs.games/posts/1001/](https://hmxs.games/posts/1001/)
+> 第一章（1-33）：[https://hmxs.games/posts/11201/](https://hmxs.games/posts/11201/)
 >
-> **第二章（34-66）：[https://hmxs.games/posts/1002/](https://hmxs.games/posts/1002/)**
+> **第二章（34-66）：[https://hmxs.games/posts/11202/](https://hmxs.games/posts/11202/)**
 >
-> 第三章（67-99）：[https://hmxs.games/posts/1003/](https://hmxs.games/posts/1003/)
+> 第三章（67-99）：[https://hmxs.games/posts/11203/](https://hmxs.games/posts/11203/)
 
 ---
 

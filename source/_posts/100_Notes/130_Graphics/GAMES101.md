@@ -11,7 +11,7 @@ description:
   - GAMES101是久负盛名的图形学入门课程，这里记录了一些我的学习笔记
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202403130823578.jpeg'
 katex: true
-abbrlink: 101
+abbrlink: 13001
 date: 2024-03-13 08:21:55
 ---
 

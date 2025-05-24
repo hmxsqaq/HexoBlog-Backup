@@ -11,7 +11,7 @@ categories:
 description:
   - 《算法4》第三章：查找 读书笔记
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202309132308381.png'
-abbrlink: 4003
+abbrlink: 11303
 date: 2024-9-30 12:00:00
 katex: true
 ---
@@ -20,7 +20,7 @@ katex: true
 
 > **官网：[https://algs4.cs.princeton.edu/home/](https://algs4.cs.princeton.edu/home/)**
 >
-> **笔记目录：[https://hmxs.games/posts/4000/](https://hmxs.games/posts/4000/)**
+> **笔记目录：[https://hmxs.games/posts/11300/](https://hmxs.games/posts/11300/)**
 
 ---
 

@@ -10,7 +10,7 @@ categories:
 description:
   - "3Blue1Brown的《线性代数的本质》系列视频被誉为最好的线性代数教学视频之一<br>本文总结了其中的一些知识点与个人的理解，希望对你有帮助\U0001F609"
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202304100312370.png'
-abbrlink: 100
+abbrlink: 10001
 date: 2023-04-10 00:00:00
 ---
 

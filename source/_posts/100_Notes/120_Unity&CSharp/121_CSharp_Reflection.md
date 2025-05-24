@@ -10,7 +10,7 @@ categories:
 description:
   - "反射是C#中的一种特性，这里总结了一些反射的相关知识<br>希望对你有帮助\U0001F910"
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303281818840.jpg'
-abbrlink: 104
+abbrlink: 12102
 date: 2023-05-22 16:11:00
 ---
 

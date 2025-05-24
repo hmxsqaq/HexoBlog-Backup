@@ -11,7 +11,7 @@ categories:
 description:
   - 重访设计模式：状态模式
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303301905867.jpeg'
-abbrlink: 2005
+abbrlink: 11105
 date: 2023-04-07 00:00:00
 ---
 
@@ -21,7 +21,7 @@ date: 2023-04-07 00:00:00
 >
 > **书籍汉化版网址：https://gpp.tkchu.me/**
 >
-> **笔记目录：[https://hmxs.games/posts/2000/](https://hmxs.games/posts/2000/)**
+> **笔记目录：[https://hmxs.games/posts/11100/](https://hmxs.games/posts/11100/)**
 
 ---
 

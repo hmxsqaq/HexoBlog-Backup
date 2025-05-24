@@ -11,7 +11,7 @@ description:
   - "以一个初学者的视角探索柏林噪声算法的原理、实现与其在程序化生成中的实际应用"
 katex: true
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202411281303069.jpg'
-abbrlink: 107
+abbrlink: 12002
 date: 2024-07-15 13:00:58
 ---
 

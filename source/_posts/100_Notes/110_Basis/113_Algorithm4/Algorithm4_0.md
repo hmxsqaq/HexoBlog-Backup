@@ -11,7 +11,7 @@ categories:
 description:
   - "《算法4》是数据结构与算法领域久负盛名的书，这里是我的读书笔记目录，希望对你有帮助\U0001F60B"
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202309132308381.png'
-abbrlink: 4000
+abbrlink: 11300
 date: 2023-09-13 22:03:11
 ---
 
@@ -27,6 +27,6 @@ date: 2023-09-13 22:03:11
 
 |                            Notes                            | Introduction |
 | :---------------------------------------------------------: | :----------: |
-| [【Algorithm4】读书笔记一](https://hmxs.games/posts/4001/) | 第一章：基础 |
-| [【Algorithm4】读书笔记二](https://hmxs.games/posts/4002/) | 第二章：排序 |
-| [【Algorithm4】读书笔记三](https://hmxs.games/posts/4003/) | 第三章：查找 |
+| [【Algorithm4】读书笔记一](https://hmxs.games/posts/11301/) | 第一章：基础 |
+| [【Algorithm4】读书笔记二](https://hmxs.games/posts/11302/) | 第二章：排序 |
+| [【Algorithm4】读书笔记三](https://hmxs.games/posts/11303/) | 第三章：查找 |

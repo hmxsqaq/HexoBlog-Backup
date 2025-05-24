@@ -10,7 +10,7 @@ categories:
 description:
   - "泛型是C#中极其重要的一种特性，善用泛型可以很大程度上提高编写代码的效率<br>这里总结了泛型约束的一些使用方法，希望对你有帮助\U0001F910"
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303281818840.jpg'
-abbrlink: 103
+abbrlink: 12101
 date: 2023-03-28 18:13:20
 ---
 

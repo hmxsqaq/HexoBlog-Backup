@@ -10,7 +10,7 @@ categories:
 description:
   - "Input System是Unity新推出的输入系统(好像也不是很新了)<br>这里是一些根据官方文档与各类资料整理的其使用方法，希望对你有帮助\U0001F60B"
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202303300143145.jpeg'
-abbrlink: 105
+abbrlink: 12001
 date: 2023-03-29 00:00:00
 ---
 
