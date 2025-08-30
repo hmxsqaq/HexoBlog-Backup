@@ -6,7 +6,7 @@ tags:
 categories:
   - Projects
   - 2024
-description: 
+description: 一次主题为“Scale”的GameJam作品
 cover: 'https://hmxs-1315810738.cos.ap-shanghai.myqcloud.com/img/202411281437810.png'
 abbrlink: 13
 date: 2024-08-21 00:00:00
